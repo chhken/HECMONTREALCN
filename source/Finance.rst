@@ -55,6 +55,7 @@
 - CIBC，ScotiaBank和RBC会给学生开无抵押信用卡，额度至高至1000加元;
 - 信用卡均支持网上购物;
 - 信用卡通常来说可以分两类，Rewards(积分)和Cash Back(返现)两种。
+- 还信用卡时，只需在出账单后至第21天内还了累计等于或超过你的balance的金额即可。
 
 银行开户所需材料
 -----------------------------------
@@ -71,7 +72,7 @@
 
 **ScotiaBank(丰业银行)**
 
-1. 丰业银行的Momentum Plus Saving Account可以认为有定期存款的功能。无Balance要求前提下的基础利率为五大银行中跟RBC齐平的1.05%，但你可以在这一账户下额外选择不同的Premium Period，会获得不同的Premium Rate。如选择90天，则会获得1.05%+0.75%=1.80%的利息。
+1. 丰业银行的Momentum Plus Saving Account可以认为有定期存款的功能。无Balance要求前提下的基础利率为五大银行中跟RBC齐平的1.05%，但你可以在这一账户下额外选择不同的Premium Period，会获得不同的Premium Rate。如选择90天，则会获得1.05%+0.75%=1.80%的利息。偶尔会出现额外获得Bonus Interest的活动。
 2. 丰业银行是五大行中唯一对借记卡提供Rewards的银行。其借记卡ScotiaCard可以三选一，Passport(Travel Rewards)，Scene(Movies Rewards)和无任何附加服务的基础卡。Rewards的比例为$5=1 Point。
 3. 丰业银行的借记卡均为Visa Debit，支持Visa的交易。
 4. 丰业银行的学生账户是含有无限交易次数的。
@@ -80,14 +81,15 @@
 
 1. RBC的RBC High Interest eSavings是除丰业银行的Momentum Plus外唯一一个无Balance要求前提下利率最高的存款账户。
 2. RBC可以开通Virtual Visa Debit来进行网上购物，且使用这一功能进行的消费不算入支票账户的交易次数。
-3. RBC的学生账户可以抵消Signature和WestJet两张卡的年费。
+3. RBC的学生账户可以抵消Signature或WestJet两张卡的年费。
 4. RBC的Client Card在开卡时只会给你临时卡，之后会将刻有你名字的正式卡寄到你的地址。
 
 **BMO(蒙特利尔银行)**
 
-1. BMO的Savings Builder存款账户很有特色，只需月初与月末的balance差额大于200加币，则所有余额享受1.45%的利率(0.2%的基础利率+1.25%的PremiumRate)
-2. BMO的学生信用卡自带SPC打折卡。同时，其中一张卡片有Airmiles的Rewards积分功能。
+1. BMO的Savings Builder存款账户很有特色，只需月初与月末的balance差额大于200加币，则所有余额享受1.45%的利率(0.2%的基础利率+1.25%的PremiumRate)。 **但是本账户不算在plan内，即Savings Builder与Chequing Account之间transfer money会计算次数。**
+2. BMO的学生信用卡自带SPC打折卡。同时，其中一张卡片有Airmiles的Rewards积分功能。BMO的Welcome Bonus较其他银行丰厚。
 3. BMO的借记卡是Debit MasterCard。
+4. BMO作为学生开户可以免费获得SPC。
 
 **CIBC(帝国商业银行)**
 
@@ -98,3 +100,6 @@
 
 1. TD很多分行在周日也上班。
 2. TD中文分行较多。
+3. TD的Access Card为Visa Debit，支持Visa的交易。
+
+
